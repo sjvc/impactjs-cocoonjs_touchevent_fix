@@ -1,7 +1,7 @@
-Impact CocoonJS touch event fix
+About this ImpactJS plugin
 ================================
 
-Plugin for ImpactJS: fixes touch events when running using CocoonJS
+This plugin fixes touch events when running an ImpactJS game using CocoonJS
 
 # Installation
 
